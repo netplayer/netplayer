@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @netplayer
 - 👀 I’m interested in automation.
 - 🌱 I’m currently learning Dart.
-- 💞️ I’m looking to collaborate on housing automation 
-but also social scope apps that will fight against
-homelessness,housing crisis and consequent side effects
-of modern disrupting apps economy.
-- 📫 netplayer.me
+ ** Fully-featured cPanel webhosting at [friendlyservers.com](https://friendlyservers.com ) starting from €1/mo **
+
 
 <!---
 netplayer/netplayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @netplayer
 - 👀 I’m interested in automation.
 - 🌱 I’m currently learning Dart.
-- ** Fully-featured cPanel webhosting at [friendlyservers.com](https://friendlyservers.com ) starting from €1/mo **
+- **Fully-featured cPanel webhosting at [friendlyservers.com](https://friendlyservers.com ) starting from €1/mo**
  
 
 

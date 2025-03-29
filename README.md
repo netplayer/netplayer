@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @netplayer
 - 👀 I’m interested in automation.
-- 🌱 I’m currently learning Dart.
+- 🌱 I’m currently into a number of projects Isn't A.I Great? ;)
 
  
 
